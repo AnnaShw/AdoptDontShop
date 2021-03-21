@@ -1,0 +1,10 @@
+body{
+    background-color:#A0EBFA;
+}
+
+#purpose{
+    background-color:none;
+}
+.img-thumbnail{
+    position: static;
+}
