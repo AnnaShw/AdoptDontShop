@@ -1,0 +1,23 @@
+body{
+    background-color:#A0EBFA;
+}
+
+#purpose{
+    background-color:none;
+}
+
+.img-thumbnail{
+    position: static;
+}
+#headingGroup span {
+    color: black;
+}
+
+p{
+    font-size: large;
+    font-style: oblique;
+}
+li{
+    font-size: larger;
+    font-style: oblique;
+}
