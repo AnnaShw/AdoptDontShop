@@ -1,0 +1,22 @@
+{
+  "name": "petsocialproject",
+  "version": "1.0.0",
+  "description": "I am making site in support of #AdoptDontShop movement",
+  "main": "petSocialProject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaShw/AdoptDontShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaShw/AdoptDontShop/issues"
+  },
+  "homepage": "https://github.com/AnnaShw/AdoptDontShop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
