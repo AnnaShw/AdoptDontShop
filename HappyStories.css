@@ -1,0 +1,19 @@
+
+.w3-dropdown-hover
+{
+    padding: 2px;
+     border: 2px solid #479dff;
+    border-radius: 15px; 
+    margin-left: 170px;
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+    align-items: center
+}
+#motivationQuote
+{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+    font-style: italic;
+}
